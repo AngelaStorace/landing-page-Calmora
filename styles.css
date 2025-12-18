@@ -1,0 +1,231 @@
+body{
+  background-color: white;
+}
+
+.container-landing{
+  width: 700px;
+  height: 500px;
+  background-color: #FAF3E0;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+  top: 10px;
+}
+
+.testo{
+  width: 50%;
+  height: 50%;
+  background-color: #FAF3E0;
+  display: inline-block;
+}
+
+
+
+
+h1{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 40px;
+  position: relative;
+  top: 50px;
+  left: 60px;
+}
+ p{
+  float: left;
+  position: relative;
+  top: 30px;
+  left: 60px;
+  color: #386641;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+  
+ }
+
+button{
+  width: 133px;
+  height: 38px;
+  border-radius: 15px;
+  position: relative;
+  top: 140px;
+  right: 124px;
+  background-color: #306030;
+  color: white;
+  border-style: none;
+  font-family: "Inter", sans-serif;
+  font-style:normal;
+  font-weight:bolder;
+  font-size: 15px;
+  cursor: pointer;
+
+}
+.immagine{
+  width:50%;
+  height: 50%;
+  background-color: #FAF3E0;
+  float:left;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+
+.grid-container{
+  width: 700px;
+  height: 300px;
+  background-color: #FAF3E0;
+  margin: 0 auto;
+  position: relative;
+  bottom: 15px;
+  margin-bottom: 0px;
+}
+
+h2{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-item{
+  width: 180px;
+  height:190px;
+  background-color: #FAF3E0;
+  float: left;
+  margin: 10px;
+  position: relative;
+  justify-content: center;
+  left: 42px;
+  margin-bottom: 20px;
+}
+h3{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 18px;
+  position: relative;
+  left: 70px;
+  bottom: 77px;
+}
+
+.icon-1{
+  width: 70px;
+  height: 70px;
+}
+
+.medita{
+  color: #386641;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+  position: relative;
+  top: -80px;
+  left: 5px;
+}
+
+.icon-2{
+  width: 70px;
+  height: 70px;
+}
+
+.sonno{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 18px;
+  position: realtive;
+  margin-top: 20px;
+  margin-left: -6px;
+  margin-bottom: 30px;
+  
+}
+ 
+ .dormi{
+  color: #386641;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+  position: relative;
+  margin: -88px -50px;
+ }
+
+ .icon-3{
+  width: 70px;
+  height: 70px;
+ }
+
+.promemoria{
+  color: #386641;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+  position: relative;
+  top: -75px;
+  left: 64px;
+}
+
+.positività{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 18px;
+  position: realtive;
+  margin-top: -83px;
+  margin-left: -30px;
+  margin-bottom: 30px;
+}
+
+.tre{
+  width: 700px;
+  height: 200px;
+  background-color: #FAF3E0;
+  margin: 0 auto;
+  position: relative;
+  bottom: 40px;
+  
+}
+
+.la-pace{
+  color: #306030;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.button-2{
+  width: 210px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: #306030;
+  color: white;
+  border-style: none;
+  font-family: "Inter", sans-serif;
+  font-style:normal;
+  font-weight:bold;
+  font-size: 18px;
+  cursor: pointer;
+  position: relative;
+  top: 10px;
+  left: 230px;
+}
+
